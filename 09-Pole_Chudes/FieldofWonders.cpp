@@ -41,7 +41,7 @@ int main()
 
 			if (prob[k] == "_ ")
 			{
-            std::cout << "You've guessed a letter!\n";
+                        std::cout << "You've guessed a letter!\n";
 			prob[k] = letter;
 			y++;
 			}
