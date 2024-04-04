@@ -1,15 +1,15 @@
 Here is a solution to training problems in C++. A description of the tasks can be found here:
-3. Write a program Hello, world! in C-style (using stdio.h and printf())
-4. Write a program Hello, world! in C++-style, i.e. using iostream and std::cout
-5. Write a C++-style program that enters a name from the keyboard and displays a greeting.
-6. Enter a string from the keyboard, copy it to another string and output it. Example output:
+-3. Write a program Hello, world! in C-style (using stdio.h and printf())
+-4. Write a program Hello, world! in C++-style, i.e. using iostream and std::cout
+-5. Write a C++-style program that enters a name from the keyboard and displays a greeting.
+-6. Enter a string from the keyboard, copy it to another string and output it. Example output:
 Enter the string: stringalala
 Copy of the line: linelala
 You cannot use strcpy() or string::copy(), i.e. copying must be done using a loop!
-7. Dichotomous number guessing algorithm. The computer asks you to think of a number from 1 to 100 and begins to guess it. It takes a valid range of values, divides it in half and asks to compare the intended number with the middle of the interval. If the middle is larger, the permissible interval becomes the lower half of the original one, if on the contrary, it becomes the upper half. And so on until it hits the exact number. The user plays honestly (does not cheat, does not change the number in the process).
-8. Enter a number from the keyboard and determine whether it is prime. A prime (I remind you from mathematics) is a natural number that has no divisors other than itself and one.
-9. Wonder Field Game mini-algorithm
-11. Add to the Wonder Field:
+-7. Dichotomous number guessing algorithm. The computer asks you to think of a number from 1 to 100 and begins to guess it. It takes a valid range of values, divides it in half and asks to compare the intended number with the middle of the interval. If the middle is larger, the permissible interval becomes the lower half of the original one, if on the contrary, it becomes the upper half. And so on until it hits the exact number. The user plays honestly (does not cheat, does not change the number in the process).
+-8. Enter a number from the keyboard and determine whether it is prime. A prime (I remind you from mathematics) is a natural number that has no divisors other than itself and one.
+-9. Wonder Field Game mini-algorithm
+-11. Add to the Wonder Field:
 - Checking that the letter has already been named. If yes, then display the message “This letter has already been used, try again.”
 - Ability to guess the word. If the user enters more than one character, we treat this as an attempt to guess the word. If it matches, the user wins. If not, the inscription "Sorry, you didn't guess the word. You lost." and the end.
 12. Factorial of a number. The user enters a number from the keyboard, the program displays its factorial.
