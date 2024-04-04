@@ -1,6 +1,6 @@
-Here is a solution to training problems in C++. A description of the tasks can be found here: 
-3. Write a program Hello, world! in C-style (using stdio.h and printf())
+Here is a solution to training problems in C++. A description of the tasks can be found here:
 
+3. Write a program Hello, world! in C-style (using stdio.h and printf())
 5. Write a program Hello, world! in C++-style, i.e. using iostream and std::cout
 6. Write a C++-style program that enters a name from the keyboard and displays a greeting.
 7. Enter a string from the keyboard, copy it to another string and output it. Example output:
