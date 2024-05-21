@@ -1,4 +1,4 @@
-Here is a solution to training problems in C++. A description of the tasks can be found here:
+In the repository you can find С++ task and solutions to them. Description of the tasks is below:
 
 3. Write a program Hello, world! in C-style (using stdio.h and printf())
 5. Write a program Hello, world! in C++-style, i.e. using iostream and std::cout
